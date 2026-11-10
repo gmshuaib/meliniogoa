@@ -57,7 +57,7 @@
             "ctaText": "Get Started",
             "brandName": "Melinio"
           },
-          "variant": 2,
+          "variant": 1,
           "customStyle": {
             "layoutSeed": 83
           }
@@ -658,7 +658,7 @@
             "niche": "food",
             "ctaHref": "/",
             "tagline": "From Local Farms to Evening Hearth",
-            "headline": "Wood-Fired Hearth Dining & Seasonal Terroir",
+            "headline": "Liyaaaa",
             "presetId": "food",
             "products": [
               {
@@ -1299,7 +1299,10 @@
             "description": "Rooted in the bounty of local coastal growers and regenerative livestock farms. Melinio invites you to gather around open flames, handcrafted sourdough, and unforgettable company.",
             "subheadline": "A celebration of heritage ingredients, natural wines, and honest culinary craft.",
             "secondaryCta": "Explore Tasting Menu",
-            "highlightText": "Modern Food"
+            "highlightText": "Modern Food",
+            "Headline": "Liyaaaa",
+            "title": "Liyaaaa",
+            "heading": "Liyaaaa"
           },
           "variant": 3,
           "customStyle": {
