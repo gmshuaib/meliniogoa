@@ -22,7 +22,7 @@ const Watermark: React.FC<WatermarkProps> = ({ isPaidUser, onUpgradeClick }) => 
                 className={`flex items-center gap-2 px-3 py-1.5 min-h-[32px] text-white hover:text-cyan-400 transition-colors group ${isPaidUser ? '' : 'pr-4'}`}
                 aria-label="Made with Webgeny"
             >
-                <svg className="w-5 h-3.5 object-contain group-hover:scale-110 group-hover:rotate-6 transition-transform duration-300 shrink-0" viewBox="0 0 76 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <svg className="w-6 h-3 object-contain group-hover:scale-110 group-hover:rotate-6 transition-transform duration-300 shrink-0" viewBox="0 0 76 38" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M0.0668226 4.4807C-0.422957 2.63603 1.89747 1.3792 3.1749 2.79725L8.93396 9.19025C15.674 16.6723 28.0064 14.0322 31.2105 4.48533C33.2221 -1.50837 41.7552 -1.4983 43.645 4.53489C46.6353 14.081 58.8144 16.8486 65.6365 9.53226L71.8619 2.8558C73.1813 1.4409 75.5092 2.76547 74.9668 4.62246L67.9824 28.5365C67.4334 30.4165 66.4216 32.1289 65.0396 33.5168C60.2751 38.3022 52.4617 38.0779 47.9795 33.0271L47.1537 32.0966C42.0695 26.3675 33.1393 26.3141 27.9868 31.9818L26.9106 33.1656C22.3417 38.1914 14.5236 38.4488 9.63407 33.7344C8.05132 32.2084 6.91635 30.2783 6.35214 28.1533L0.0668226 4.4807Z" fill="url(#wg_watermark_grad)"/>
                     <defs>
                         <linearGradient id="wg_watermark_grad" x1="-11.8543" y1="-7.81436" x2="79.5866" y2="42.011" gradientUnits="userSpaceOnUse">

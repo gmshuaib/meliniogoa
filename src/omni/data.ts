@@ -776,7 +776,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-11-10T16:24:50.973Z"
+        "createdAt": "2026-11-10T17:39:37.976Z"
       },
       {
         "id": "fash-002",
@@ -994,7 +994,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-11-08T16:24:50.974Z"
+        "createdAt": "2026-11-08T17:39:37.976Z"
       },
       {
         "id": "fash-003",
@@ -1064,7 +1064,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-11-06T16:24:50.974Z"
+        "createdAt": "2026-11-06T17:39:37.976Z"
       },
       {
         "id": "fash-004",
@@ -1171,7 +1171,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-cuoio-firenze",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-11-04T16:24:50.975Z"
+        "createdAt": "2026-11-04T17:39:37.977Z"
       },
       {
         "id": "fash-005",
@@ -1387,7 +1387,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sartoria-milano",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-11-02T16:24:50.975Z"
+        "createdAt": "2026-11-02T17:39:37.977Z"
       },
       {
         "id": "fash-006",
@@ -1602,7 +1602,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-31T16:24:50.975Z"
+        "createdAt": "2026-10-31T17:39:37.977Z"
       },
       {
         "id": "fash-007",
@@ -1815,7 +1815,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-29T16:24:50.975Z"
+        "createdAt": "2026-10-29T17:39:37.977Z"
       },
       {
         "id": "fash-008",
@@ -2004,7 +2004,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-27T16:24:50.975Z"
+        "createdAt": "2026-10-27T17:39:37.977Z"
       },
       {
         "id": "fash-009",
@@ -2098,7 +2098,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-25T16:24:50.976Z"
+        "createdAt": "2026-10-25T17:39:37.977Z"
       },
       {
         "id": "fash-010",
@@ -2166,7 +2166,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-23T16:24:50.976Z"
+        "createdAt": "2026-10-23T17:39:37.978Z"
       },
       {
         "id": "fash-011",
@@ -2382,7 +2382,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-21T16:24:50.976Z"
+        "createdAt": "2026-10-21T17:39:37.978Z"
       },
       {
         "id": "fash-012",
@@ -2548,7 +2548,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-19T16:24:50.976Z"
+        "createdAt": "2026-10-19T17:39:37.978Z"
       },
       {
         "id": "fash-013",
@@ -2715,7 +2715,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-17T16:24:50.977Z"
+        "createdAt": "2026-10-17T17:39:37.978Z"
       },
       {
         "id": "fash-014",
@@ -2883,7 +2883,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-15T16:24:50.977Z"
+        "createdAt": "2026-10-15T17:39:37.978Z"
       },
       {
         "id": "fash-015",
@@ -3050,7 +3050,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-13T16:24:50.977Z"
+        "createdAt": "2026-10-13T17:39:37.978Z"
       },
       {
         "id": "fash-016",
@@ -3118,7 +3118,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-11T16:24:50.977Z"
+        "createdAt": "2026-10-11T17:39:37.978Z"
       },
       {
         "id": "fash-017",
@@ -3223,7 +3223,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-09T16:24:50.977Z"
+        "createdAt": "2026-10-09T17:39:37.978Z"
       },
       {
         "id": "fash-018",
@@ -3438,7 +3438,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-07T16:24:50.977Z"
+        "createdAt": "2026-10-07T17:39:37.979Z"
       },
       {
         "id": "fash-019",
@@ -3653,7 +3653,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-05T16:24:50.977Z"
+        "createdAt": "2026-10-05T17:39:37.979Z"
       },
       {
         "id": "fash-020",
@@ -3867,7 +3867,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-03T16:24:50.977Z"
+        "createdAt": "2026-10-03T17:39:37.979Z"
       },
       {
         "id": "fash-021",
@@ -4034,7 +4034,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-10-01T16:24:50.977Z"
+        "createdAt": "2026-10-01T17:39:37.979Z"
       },
       {
         "id": "fash-022",
@@ -4250,7 +4250,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-29T16:24:50.977Z"
+        "createdAt": "2026-09-29T17:39:37.979Z"
       },
       {
         "id": "fash-023",
@@ -4318,7 +4318,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-27T16:24:50.977Z"
+        "createdAt": "2026-09-27T17:39:37.979Z"
       },
       {
         "id": "fash-024",
@@ -4411,7 +4411,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-25T16:24:50.977Z"
+        "createdAt": "2026-09-25T17:39:37.979Z"
       },
       {
         "id": "fash-025",
@@ -4555,7 +4555,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-23T16:24:50.977Z"
+        "createdAt": "2026-09-23T17:39:37.979Z"
       },
       {
         "id": "fash-026",
@@ -4722,7 +4722,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-21T16:24:50.977Z"
+        "createdAt": "2026-09-21T17:39:37.979Z"
       },
       {
         "id": "fash-027",
@@ -4912,7 +4912,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-19T16:24:50.977Z"
+        "createdAt": "2026-09-19T17:39:37.979Z"
       },
       {
         "id": "fash-028",
@@ -5079,7 +5079,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-17T16:24:50.977Z"
+        "createdAt": "2026-09-17T17:39:37.979Z"
       },
       {
         "id": "fash-029",
@@ -5246,7 +5246,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-15T16:24:50.977Z"
+        "createdAt": "2026-09-15T17:39:37.980Z"
       },
       {
         "id": "fash-030",
@@ -5462,7 +5462,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-13T16:24:50.978Z"
+        "createdAt": "2026-09-13T17:39:37.980Z"
       },
       {
         "id": "fash-031",
@@ -5530,7 +5530,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-11T16:24:50.978Z"
+        "createdAt": "2026-09-11T17:39:37.980Z"
       },
       {
         "id": "fash-032",
@@ -5697,7 +5697,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-09T16:24:50.978Z"
+        "createdAt": "2026-09-09T17:39:37.980Z"
       },
       {
         "id": "fash-033",
@@ -5865,7 +5865,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-07T16:24:50.978Z"
+        "createdAt": "2026-09-07T17:39:37.980Z"
       },
       {
         "id": "fash-034",
@@ -6031,7 +6031,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-05T16:24:50.978Z"
+        "createdAt": "2026-09-05T17:39:37.980Z"
       },
       {
         "id": "fash-035",
@@ -6125,7 +6125,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-03T16:24:50.978Z"
+        "createdAt": "2026-09-03T17:39:37.980Z"
       },
       {
         "id": "fash-036",
@@ -6293,7 +6293,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-09-01T16:24:50.978Z"
+        "createdAt": "2026-09-01T17:39:37.980Z"
       },
       {
         "id": "fash-037",
@@ -6508,7 +6508,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-30T16:24:50.978Z"
+        "createdAt": "2026-08-30T17:39:37.980Z"
       },
       {
         "id": "fash-038",
@@ -6675,7 +6675,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-28T16:24:50.978Z"
+        "createdAt": "2026-08-28T17:39:37.980Z"
       },
       {
         "id": "fash-039",
@@ -6891,7 +6891,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-26T16:24:50.978Z"
+        "createdAt": "2026-08-26T17:39:37.980Z"
       },
       {
         "id": "fash-040",
@@ -7081,7 +7081,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-24T16:24:50.978Z"
+        "createdAt": "2026-08-24T17:39:37.980Z"
       },
       {
         "id": "fash-041",
@@ -7149,7 +7149,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-22T16:24:50.978Z"
+        "createdAt": "2026-08-22T17:39:37.980Z"
       },
       {
         "id": "fash-042",
@@ -7317,7 +7317,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-20T16:24:50.978Z"
+        "createdAt": "2026-08-20T17:39:37.981Z"
       },
       {
         "id": "fash-043",
@@ -7423,7 +7423,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-18T16:24:50.978Z"
+        "createdAt": "2026-08-18T17:39:37.981Z"
       },
       {
         "id": "fash-044",
@@ -7639,7 +7639,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-16T16:24:50.978Z"
+        "createdAt": "2026-08-16T17:39:37.981Z"
       },
       {
         "id": "fash-045",
@@ -7806,7 +7806,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-14T16:24:50.979Z"
+        "createdAt": "2026-08-14T17:39:37.981Z"
       },
       {
         "id": "fash-046",
@@ -7900,7 +7900,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-12T16:24:50.979Z"
+        "createdAt": "2026-08-12T17:39:37.981Z"
       },
       {
         "id": "fash-047",
@@ -8066,7 +8066,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-10T16:24:50.979Z"
+        "createdAt": "2026-08-10T17:39:37.981Z"
       },
       {
         "id": "fash-048",
@@ -8282,7 +8282,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-08T16:24:50.979Z"
+        "createdAt": "2026-08-08T17:39:37.981Z"
       },
       {
         "id": "fash-049",
@@ -8449,7 +8449,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-06T16:24:50.979Z"
+        "createdAt": "2026-08-06T17:39:37.981Z"
       },
       {
         "id": "fash-050",
@@ -8517,7 +8517,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-aura-flagship",
         "warranty": "Lifetime stitching and button repair guarantee",
         "returnPolicy": "30-day complimentary return or exchange in original garment bag",
-        "createdAt": "2026-08-04T16:24:50.979Z"
+        "createdAt": "2026-08-04T17:39:37.981Z"
       }
     ],
     "banners": [
@@ -9032,7 +9032,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-11-10T16:24:50.982Z"
+        "createdAt": "2026-11-10T17:39:37.984Z"
       },
       {
         "id": "elec-002",
@@ -9103,7 +9103,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-11-08T16:24:50.982Z"
+        "createdAt": "2026-11-08T17:39:37.984Z"
       },
       {
         "id": "elec-003",
@@ -9167,7 +9167,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-11-06T16:24:50.982Z"
+        "createdAt": "2026-11-06T17:39:37.984Z"
       },
       {
         "id": "elec-004",
@@ -9230,7 +9230,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-11-04T16:24:50.982Z"
+        "createdAt": "2026-11-04T17:39:37.984Z"
       },
       {
         "id": "elec-005",
@@ -9292,7 +9292,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-11-02T16:24:50.983Z"
+        "createdAt": "2026-11-02T17:39:37.985Z"
       },
       {
         "id": "elec-006",
@@ -9355,7 +9355,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-31T16:24:50.983Z"
+        "createdAt": "2026-10-31T17:39:37.985Z"
       },
       {
         "id": "elec-007",
@@ -9417,7 +9417,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-29T16:24:50.983Z"
+        "createdAt": "2026-10-29T17:39:37.985Z"
       },
       {
         "id": "elec-008",
@@ -9481,7 +9481,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-27T16:24:50.983Z"
+        "createdAt": "2026-10-27T17:39:37.985Z"
       },
       {
         "id": "elec-009",
@@ -9544,7 +9544,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-25T16:24:50.983Z"
+        "createdAt": "2026-10-25T17:39:37.985Z"
       },
       {
         "id": "elec-010",
@@ -9605,7 +9605,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-23T16:24:50.983Z"
+        "createdAt": "2026-10-23T17:39:37.985Z"
       },
       {
         "id": "elec-011",
@@ -9665,7 +9665,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-21T16:24:50.983Z"
+        "createdAt": "2026-10-21T17:39:37.985Z"
       },
       {
         "id": "elec-012",
@@ -9727,7 +9727,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-19T16:24:50.983Z"
+        "createdAt": "2026-10-19T17:39:37.986Z"
       },
       {
         "id": "elec-013",
@@ -9789,7 +9789,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-17T16:24:50.984Z"
+        "createdAt": "2026-10-17T17:39:37.986Z"
       },
       {
         "id": "elec-014",
@@ -9895,7 +9895,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-15T16:24:50.984Z"
+        "createdAt": "2026-10-15T17:39:37.986Z"
       },
       {
         "id": "elec-015",
@@ -9962,7 +9962,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-13T16:24:50.984Z"
+        "createdAt": "2026-10-13T17:39:37.986Z"
       },
       {
         "id": "elec-016",
@@ -10023,7 +10023,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-11T16:24:50.984Z"
+        "createdAt": "2026-10-11T17:39:37.987Z"
       },
       {
         "id": "elec-017",
@@ -10084,7 +10084,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-09T16:24:50.984Z"
+        "createdAt": "2026-10-09T17:39:37.987Z"
       },
       {
         "id": "elec-018",
@@ -10145,7 +10145,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-07T16:24:50.984Z"
+        "createdAt": "2026-10-07T17:39:37.987Z"
       },
       {
         "id": "elec-019",
@@ -10205,7 +10205,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-05T16:24:50.984Z"
+        "createdAt": "2026-10-05T17:39:37.987Z"
       },
       {
         "id": "elec-020",
@@ -10266,7 +10266,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-03T16:24:50.984Z"
+        "createdAt": "2026-10-03T17:39:37.987Z"
       },
       {
         "id": "elec-021",
@@ -10325,7 +10325,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-10-01T16:24:50.984Z"
+        "createdAt": "2026-10-01T17:39:37.987Z"
       },
       {
         "id": "elec-022",
@@ -10384,7 +10384,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-29T16:24:50.984Z"
+        "createdAt": "2026-09-29T17:39:37.987Z"
       },
       {
         "id": "elec-023",
@@ -10444,7 +10444,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-27T16:24:50.984Z"
+        "createdAt": "2026-09-27T17:39:37.987Z"
       },
       {
         "id": "elec-024",
@@ -10503,7 +10503,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-25T16:24:50.984Z"
+        "createdAt": "2026-09-25T17:39:37.987Z"
       },
       {
         "id": "elec-025",
@@ -10563,7 +10563,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-23T16:24:50.984Z"
+        "createdAt": "2026-09-23T17:39:37.987Z"
       },
       {
         "id": "elec-026",
@@ -10620,7 +10620,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-acoustic-labs",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-21T16:24:50.984Z"
+        "createdAt": "2026-09-21T17:39:37.987Z"
       },
       {
         "id": "elec-027",
@@ -10689,7 +10689,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-19T16:24:50.984Z"
+        "createdAt": "2026-09-19T17:39:37.987Z"
       },
       {
         "id": "elec-028",
@@ -10757,7 +10757,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-byteflow",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-17T16:24:50.984Z"
+        "createdAt": "2026-09-17T17:39:37.987Z"
       },
       {
         "id": "elec-029",
@@ -10817,7 +10817,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-byteflow",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-15T16:24:50.984Z"
+        "createdAt": "2026-09-15T17:39:37.987Z"
       },
       {
         "id": "elec-030",
@@ -10876,7 +10876,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-13T16:24:50.984Z"
+        "createdAt": "2026-09-13T17:39:37.987Z"
       },
       {
         "id": "elec-031",
@@ -10937,7 +10937,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-11T16:24:50.984Z"
+        "createdAt": "2026-09-11T17:39:37.987Z"
       },
       {
         "id": "elec-032",
@@ -10995,7 +10995,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-09T16:24:50.984Z"
+        "createdAt": "2026-09-09T17:39:37.987Z"
       },
       {
         "id": "elec-033",
@@ -11053,7 +11053,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-byteflow",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-07T16:24:50.984Z"
+        "createdAt": "2026-09-07T17:39:37.987Z"
       },
       {
         "id": "elec-034",
@@ -11111,7 +11111,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-05T16:24:50.985Z"
+        "createdAt": "2026-09-05T17:39:37.987Z"
       },
       {
         "id": "elec-035",
@@ -11168,7 +11168,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-03T16:24:50.985Z"
+        "createdAt": "2026-09-03T17:39:37.987Z"
       },
       {
         "id": "elec-036",
@@ -11226,7 +11226,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-09-01T16:24:50.985Z"
+        "createdAt": "2026-09-01T17:39:37.987Z"
       },
       {
         "id": "elec-037",
@@ -11285,7 +11285,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-30T16:24:50.985Z"
+        "createdAt": "2026-08-30T17:39:37.988Z"
       },
       {
         "id": "elec-038",
@@ -11343,7 +11343,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-28T16:24:50.985Z"
+        "createdAt": "2026-08-28T17:39:37.988Z"
       },
       {
         "id": "elec-039",
@@ -11446,7 +11446,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-26T16:24:50.985Z"
+        "createdAt": "2026-08-26T17:39:37.988Z"
       },
       {
         "id": "elec-040",
@@ -11507,7 +11507,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-24T16:24:50.985Z"
+        "createdAt": "2026-08-24T17:39:37.988Z"
       },
       {
         "id": "elec-041",
@@ -11568,7 +11568,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-22T16:24:50.985Z"
+        "createdAt": "2026-08-22T17:39:37.988Z"
       },
       {
         "id": "elec-042",
@@ -11627,7 +11627,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-20T16:24:50.985Z"
+        "createdAt": "2026-08-20T17:39:37.988Z"
       },
       {
         "id": "elec-043",
@@ -11686,7 +11686,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-18T16:24:50.985Z"
+        "createdAt": "2026-08-18T17:39:37.988Z"
       },
       {
         "id": "elec-044",
@@ -11744,7 +11744,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-16T16:24:50.985Z"
+        "createdAt": "2026-08-16T17:39:37.988Z"
       },
       {
         "id": "elec-045",
@@ -11802,7 +11802,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-14T16:24:50.985Z"
+        "createdAt": "2026-08-14T17:39:37.988Z"
       },
       {
         "id": "elec-046",
@@ -11860,7 +11860,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-12T16:24:50.985Z"
+        "createdAt": "2026-08-12T17:39:37.988Z"
       },
       {
         "id": "elec-047",
@@ -11918,7 +11918,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-10T16:24:50.985Z"
+        "createdAt": "2026-08-10T17:39:37.988Z"
       },
       {
         "id": "elec-048",
@@ -11976,7 +11976,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-byteflow",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-08T16:24:50.985Z"
+        "createdAt": "2026-08-08T17:39:37.988Z"
       },
       {
         "id": "elec-049",
@@ -12035,7 +12035,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-nexus-direct",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-06T16:24:50.985Z"
+        "createdAt": "2026-08-06T17:39:37.988Z"
       },
       {
         "id": "elec-050",
@@ -12093,7 +12093,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-byteflow",
         "warranty": "2-Year Direct Manufacturer Full Coverage",
         "returnPolicy": "30-Day Hassle-Free Return Guarantee",
-        "createdAt": "2026-08-04T16:24:50.985Z"
+        "createdAt": "2026-08-04T17:39:37.988Z"
       }
     ],
     "banners": [
@@ -12460,7 +12460,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-11-10T16:24:50.986Z"
+        "createdAt": "2026-11-10T17:39:37.990Z"
       },
       {
         "id": "home-002",
@@ -12563,7 +12563,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-11-08T16:24:50.986Z"
+        "createdAt": "2026-11-08T17:39:37.991Z"
       },
       {
         "id": "home-003",
@@ -12624,7 +12624,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-11-06T16:24:50.987Z"
+        "createdAt": "2026-11-06T17:39:37.991Z"
       },
       {
         "id": "home-004",
@@ -12684,7 +12684,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-11-04T16:24:50.987Z"
+        "createdAt": "2026-11-04T17:39:37.991Z"
       },
       {
         "id": "home-005",
@@ -12746,7 +12746,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-11-02T16:24:50.987Z"
+        "createdAt": "2026-11-02T17:39:37.991Z"
       },
       {
         "id": "home-006",
@@ -12807,7 +12807,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-31T16:24:50.987Z"
+        "createdAt": "2026-10-31T17:39:37.991Z"
       },
       {
         "id": "home-007",
@@ -12869,7 +12869,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-29T16:24:50.987Z"
+        "createdAt": "2026-10-29T17:39:37.991Z"
       },
       {
         "id": "home-008",
@@ -12929,7 +12929,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-27T16:24:50.987Z"
+        "createdAt": "2026-10-27T17:39:37.991Z"
       },
       {
         "id": "home-009",
@@ -12991,7 +12991,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-25T16:24:50.987Z"
+        "createdAt": "2026-10-25T17:39:37.991Z"
       },
       {
         "id": "home-010",
@@ -13050,7 +13050,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-23T16:24:50.987Z"
+        "createdAt": "2026-10-23T17:39:37.992Z"
       },
       {
         "id": "home-011",
@@ -13110,7 +13110,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-21T16:24:50.987Z"
+        "createdAt": "2026-10-21T17:39:37.992Z"
       },
       {
         "id": "home-012",
@@ -13171,7 +13171,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-19T16:24:50.987Z"
+        "createdAt": "2026-10-19T17:39:37.992Z"
       },
       {
         "id": "home-013",
@@ -13232,7 +13232,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-17T16:24:50.988Z"
+        "createdAt": "2026-10-17T17:39:37.992Z"
       },
       {
         "id": "home-014",
@@ -13292,7 +13292,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-15T16:24:50.988Z"
+        "createdAt": "2026-10-15T17:39:37.992Z"
       },
       {
         "id": "home-015",
@@ -13360,7 +13360,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-13T16:24:50.988Z"
+        "createdAt": "2026-10-13T17:39:37.992Z"
       },
       {
         "id": "home-016",
@@ -13418,7 +13418,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-11T16:24:50.988Z"
+        "createdAt": "2026-10-11T17:39:37.992Z"
       },
       {
         "id": "home-017",
@@ -13477,7 +13477,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-09T16:24:50.988Z"
+        "createdAt": "2026-10-09T17:39:37.992Z"
       },
       {
         "id": "home-018",
@@ -13535,7 +13535,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-07T16:24:50.988Z"
+        "createdAt": "2026-10-07T17:39:37.992Z"
       },
       {
         "id": "home-019",
@@ -13594,7 +13594,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-05T16:24:50.988Z"
+        "createdAt": "2026-10-05T17:39:37.992Z"
       },
       {
         "id": "home-020",
@@ -13652,7 +13652,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-03T16:24:50.988Z"
+        "createdAt": "2026-10-03T17:39:37.993Z"
       },
       {
         "id": "home-021",
@@ -13711,7 +13711,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-10-01T16:24:50.988Z"
+        "createdAt": "2026-10-01T17:39:37.993Z"
       },
       {
         "id": "home-022",
@@ -13769,7 +13769,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-29T16:24:50.988Z"
+        "createdAt": "2026-09-29T17:39:37.993Z"
       },
       {
         "id": "home-023",
@@ -13827,7 +13827,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-27T16:24:50.988Z"
+        "createdAt": "2026-09-27T17:39:37.993Z"
       },
       {
         "id": "home-024",
@@ -13885,7 +13885,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-25T16:24:50.988Z"
+        "createdAt": "2026-09-25T17:39:37.993Z"
       },
       {
         "id": "home-025",
@@ -13944,7 +13944,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-23T16:24:50.988Z"
+        "createdAt": "2026-09-23T17:39:37.993Z"
       },
       {
         "id": "home-026",
@@ -14002,7 +14002,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-21T16:24:50.988Z"
+        "createdAt": "2026-09-21T17:39:37.993Z"
       },
       {
         "id": "home-027",
@@ -14070,7 +14070,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-19T16:24:50.988Z"
+        "createdAt": "2026-09-19T17:39:37.993Z"
       },
       {
         "id": "home-028",
@@ -14128,7 +14128,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-17T16:24:50.988Z"
+        "createdAt": "2026-09-17T17:39:37.993Z"
       },
       {
         "id": "home-029",
@@ -14186,7 +14186,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-15T16:24:50.988Z"
+        "createdAt": "2026-09-15T17:39:37.993Z"
       },
       {
         "id": "home-030",
@@ -14245,7 +14245,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-13T16:24:50.989Z"
+        "createdAt": "2026-09-13T17:39:37.993Z"
       },
       {
         "id": "home-031",
@@ -14304,7 +14304,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-11T16:24:50.989Z"
+        "createdAt": "2026-09-11T17:39:37.993Z"
       },
       {
         "id": "home-032",
@@ -14362,7 +14362,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-09T16:24:50.989Z"
+        "createdAt": "2026-09-09T17:39:37.993Z"
       },
       {
         "id": "home-033",
@@ -14423,7 +14423,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-vesper",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-07T16:24:50.989Z"
+        "createdAt": "2026-09-07T17:39:37.993Z"
       },
       {
         "id": "home-034",
@@ -14483,7 +14483,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-05T16:24:50.989Z"
+        "createdAt": "2026-09-05T17:39:37.993Z"
       },
       {
         "id": "home-035",
@@ -14540,7 +14540,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-03T16:24:50.989Z"
+        "createdAt": "2026-09-03T17:39:37.993Z"
       },
       {
         "id": "home-036",
@@ -14598,7 +14598,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-09-01T16:24:50.989Z"
+        "createdAt": "2026-09-01T17:39:37.993Z"
       },
       {
         "id": "home-037",
@@ -14657,7 +14657,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-30T16:24:50.989Z"
+        "createdAt": "2026-08-30T17:39:37.993Z"
       },
       {
         "id": "home-038",
@@ -14714,7 +14714,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-28T16:24:50.989Z"
+        "createdAt": "2026-08-28T17:39:37.993Z"
       },
       {
         "id": "home-039",
@@ -14817,7 +14817,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-26T16:24:50.989Z"
+        "createdAt": "2026-08-26T17:39:37.994Z"
       },
       {
         "id": "home-040",
@@ -14900,7 +14900,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-24T16:24:50.989Z"
+        "createdAt": "2026-08-24T17:39:37.994Z"
       },
       {
         "id": "home-041",
@@ -14958,7 +14958,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-22T16:24:50.989Z"
+        "createdAt": "2026-08-22T17:39:37.994Z"
       },
       {
         "id": "home-042",
@@ -15017,7 +15017,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-20T16:24:50.989Z"
+        "createdAt": "2026-08-20T17:39:37.994Z"
       },
       {
         "id": "home-043",
@@ -15076,7 +15076,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-18T16:24:50.989Z"
+        "createdAt": "2026-08-18T17:39:37.994Z"
       },
       {
         "id": "home-044",
@@ -15134,7 +15134,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-komorebi",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-16T16:24:50.989Z"
+        "createdAt": "2026-08-16T17:39:37.994Z"
       },
       {
         "id": "home-045",
@@ -15194,7 +15194,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-14T16:24:50.990Z"
+        "createdAt": "2026-08-14T17:39:37.994Z"
       },
       {
         "id": "home-046",
@@ -15252,7 +15252,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-12T16:24:50.990Z"
+        "createdAt": "2026-08-12T17:39:37.994Z"
       },
       {
         "id": "home-047",
@@ -15310,7 +15310,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-10T16:24:50.990Z"
+        "createdAt": "2026-08-10T17:39:37.994Z"
       },
       {
         "id": "home-048",
@@ -15368,7 +15368,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-08T16:24:50.990Z"
+        "createdAt": "2026-08-08T17:39:37.994Z"
       },
       {
         "id": "home-049",
@@ -15427,7 +15427,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-06T16:24:50.990Z"
+        "createdAt": "2026-08-06T17:39:37.994Z"
       },
       {
         "id": "home-050",
@@ -15485,7 +15485,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-lumen-direct",
         "warranty": "5-Year Frame & Craftsmanship Structural Guarantee",
         "returnPolicy": "30-Day In-Home Trial with Free Returns in Original Packaging",
-        "createdAt": "2026-08-04T16:24:50.990Z"
+        "createdAt": "2026-08-04T17:39:37.994Z"
       }
     ],
     "banners": [
@@ -15821,7 +15821,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-11-10T16:24:50.991Z"
+        "createdAt": "2026-11-10T17:39:37.996Z"
       },
       {
         "id": "groc-002",
@@ -15885,7 +15885,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-11-08T16:24:50.991Z"
+        "createdAt": "2026-11-08T17:39:37.996Z"
       },
       {
         "id": "groc-003",
@@ -15944,7 +15944,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-11-06T16:24:50.991Z"
+        "createdAt": "2026-11-06T17:39:37.996Z"
       },
       {
         "id": "groc-004",
@@ -16005,7 +16005,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sicily-groves",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-11-04T16:24:50.991Z"
+        "createdAt": "2026-11-04T17:39:37.997Z"
       },
       {
         "id": "groc-005",
@@ -16065,7 +16065,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-11-02T16:24:50.991Z"
+        "createdAt": "2026-11-02T17:39:37.997Z"
       },
       {
         "id": "groc-006",
@@ -16123,7 +16123,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-31T16:24:50.991Z"
+        "createdAt": "2026-10-31T17:39:37.997Z"
       },
       {
         "id": "groc-007",
@@ -16186,7 +16186,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-29T16:24:50.991Z"
+        "createdAt": "2026-10-29T17:39:37.997Z"
       },
       {
         "id": "groc-008",
@@ -16245,7 +16245,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-27T16:24:50.991Z"
+        "createdAt": "2026-10-27T17:39:37.997Z"
       },
       {
         "id": "groc-009",
@@ -16303,7 +16303,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-25T16:24:50.991Z"
+        "createdAt": "2026-10-25T17:39:37.997Z"
       },
       {
         "id": "groc-010",
@@ -16362,7 +16362,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sicily-groves",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-23T16:24:50.991Z"
+        "createdAt": "2026-10-23T17:39:37.997Z"
       },
       {
         "id": "groc-011",
@@ -16420,7 +16420,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-21T16:24:50.991Z"
+        "createdAt": "2026-10-21T17:39:37.997Z"
       },
       {
         "id": "groc-012",
@@ -16484,7 +16484,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-19T16:24:50.991Z"
+        "createdAt": "2026-10-19T17:39:37.998Z"
       },
       {
         "id": "groc-013",
@@ -16543,7 +16543,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-17T16:24:50.992Z"
+        "createdAt": "2026-10-17T17:39:37.998Z"
       },
       {
         "id": "groc-014",
@@ -16610,7 +16610,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-15T16:24:50.992Z"
+        "createdAt": "2026-10-15T17:39:37.998Z"
       },
       {
         "id": "groc-015",
@@ -16669,7 +16669,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-rainforest-honey",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-13T16:24:50.992Z"
+        "createdAt": "2026-10-13T17:39:37.998Z"
       },
       {
         "id": "groc-016",
@@ -16729,7 +16729,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-11T16:24:50.992Z"
+        "createdAt": "2026-10-11T17:39:37.998Z"
       },
       {
         "id": "groc-017",
@@ -16787,7 +16787,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-09T16:24:50.992Z"
+        "createdAt": "2026-10-09T17:39:37.998Z"
       },
       {
         "id": "groc-018",
@@ -16847,7 +16847,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sicily-groves",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-07T16:24:50.992Z"
+        "createdAt": "2026-10-07T17:39:37.998Z"
       },
       {
         "id": "groc-019",
@@ -16906,7 +16906,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-05T16:24:50.992Z"
+        "createdAt": "2026-10-05T17:39:37.998Z"
       },
       {
         "id": "groc-020",
@@ -16963,7 +16963,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-03T16:24:50.992Z"
+        "createdAt": "2026-10-03T17:39:37.998Z"
       },
       {
         "id": "groc-021",
@@ -17021,7 +17021,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sicily-groves",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-10-01T16:24:50.992Z"
+        "createdAt": "2026-10-01T17:39:37.998Z"
       },
       {
         "id": "groc-022",
@@ -17079,7 +17079,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-29T16:24:50.992Z"
+        "createdAt": "2026-09-29T17:39:37.998Z"
       },
       {
         "id": "groc-023",
@@ -17136,7 +17136,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-27T16:24:50.992Z"
+        "createdAt": "2026-09-27T17:39:37.998Z"
       },
       {
         "id": "groc-024",
@@ -17195,7 +17195,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-25T16:24:50.992Z"
+        "createdAt": "2026-09-25T17:39:37.998Z"
       },
       {
         "id": "groc-025",
@@ -17254,7 +17254,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-san-michele",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-23T16:24:50.992Z"
+        "createdAt": "2026-09-23T17:39:37.999Z"
       },
       {
         "id": "groc-026",
@@ -17316,7 +17316,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-21T16:24:50.992Z"
+        "createdAt": "2026-09-21T17:39:37.999Z"
       },
       {
         "id": "groc-027",
@@ -17385,7 +17385,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-19T16:24:50.992Z"
+        "createdAt": "2026-09-19T17:39:37.999Z"
       },
       {
         "id": "groc-028",
@@ -17450,7 +17450,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-17T16:24:50.992Z"
+        "createdAt": "2026-09-17T17:39:37.999Z"
       },
       {
         "id": "groc-029",
@@ -17510,7 +17510,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-15T16:24:50.992Z"
+        "createdAt": "2026-09-15T17:39:37.999Z"
       },
       {
         "id": "groc-030",
@@ -17567,7 +17567,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-13T16:24:50.992Z"
+        "createdAt": "2026-09-13T17:39:37.999Z"
       },
       {
         "id": "groc-031",
@@ -17625,7 +17625,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-11T16:24:50.992Z"
+        "createdAt": "2026-09-11T17:39:37.999Z"
       },
       {
         "id": "groc-032",
@@ -17683,7 +17683,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-09T16:24:50.992Z"
+        "createdAt": "2026-09-09T17:39:37.999Z"
       },
       {
         "id": "groc-033",
@@ -17744,7 +17744,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-07T16:24:50.992Z"
+        "createdAt": "2026-09-07T17:39:37.999Z"
       },
       {
         "id": "groc-034",
@@ -17801,7 +17801,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-05T16:24:50.992Z"
+        "createdAt": "2026-09-05T17:39:37.999Z"
       },
       {
         "id": "groc-035",
@@ -17859,7 +17859,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-03T16:24:50.992Z"
+        "createdAt": "2026-09-03T17:39:37.999Z"
       },
       {
         "id": "groc-036",
@@ -17917,7 +17917,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-09-01T16:24:50.992Z"
+        "createdAt": "2026-09-01T17:39:37.999Z"
       },
       {
         "id": "groc-037",
@@ -17974,7 +17974,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-30T16:24:50.992Z"
+        "createdAt": "2026-08-30T17:39:37.999Z"
       },
       {
         "id": "groc-038",
@@ -18034,7 +18034,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-28T16:24:50.992Z"
+        "createdAt": "2026-08-28T17:39:37.999Z"
       },
       {
         "id": "groc-039",
@@ -18100,7 +18100,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-26T16:24:50.992Z"
+        "createdAt": "2026-08-26T17:39:37.999Z"
       },
       {
         "id": "groc-040",
@@ -18163,7 +18163,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-24T16:24:50.992Z"
+        "createdAt": "2026-08-24T17:39:37.999Z"
       },
       {
         "id": "groc-041",
@@ -18221,7 +18221,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-22T16:24:50.992Z"
+        "createdAt": "2026-08-22T17:39:37.999Z"
       },
       {
         "id": "groc-042",
@@ -18279,7 +18279,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-20T16:24:50.992Z"
+        "createdAt": "2026-08-20T17:39:37.999Z"
       },
       {
         "id": "groc-043",
@@ -18337,7 +18337,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-18T16:24:50.992Z"
+        "createdAt": "2026-08-18T17:39:37.999Z"
       },
       {
         "id": "groc-044",
@@ -18395,7 +18395,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-kyoto-farm",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-16T16:24:50.992Z"
+        "createdAt": "2026-08-16T17:39:37.999Z"
       },
       {
         "id": "groc-045",
@@ -18456,7 +18456,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-14T16:24:50.992Z"
+        "createdAt": "2026-08-14T17:39:37.999Z"
       },
       {
         "id": "groc-046",
@@ -18513,7 +18513,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-12T16:24:50.992Z"
+        "createdAt": "2026-08-12T17:39:37.999Z"
       },
       {
         "id": "groc-047",
@@ -18570,7 +18570,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-10T16:24:50.992Z"
+        "createdAt": "2026-08-10T17:39:37.999Z"
       },
       {
         "id": "groc-048",
@@ -18632,7 +18632,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-08T16:24:50.992Z"
+        "createdAt": "2026-08-08T17:39:37.999Z"
       },
       {
         "id": "groc-049",
@@ -18690,7 +18690,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-terra-bakehouse",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-06T16:24:50.992Z"
+        "createdAt": "2026-08-06T17:39:37.999Z"
       },
       {
         "id": "groc-050",
@@ -18748,7 +18748,7 @@ export const storePresets: Record<string, StorePreset> = {
         "sellerId": "vendor-sonoma-valley",
         "warranty": "100% Farm-Fresh Flavor Satisfaction Guarantee",
         "returnPolicy": "Full instant refund or replacement for any damaged or sub-fresh items",
-        "createdAt": "2026-08-04T16:24:50.992Z"
+        "createdAt": "2026-08-04T17:39:37.999Z"
       }
     ],
     "banners": [
