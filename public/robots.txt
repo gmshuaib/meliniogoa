@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /api/
+
+# TODO: Replace the Sitemap URL below with your production domain after deployment.
+Sitemap: https://your-production-domain.com/sitemap.xml
